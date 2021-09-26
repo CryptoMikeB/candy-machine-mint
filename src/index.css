@@ -11,7 +11,15 @@ body {
 	border:1px solid #18ab29;
 	display:inline-block;
 	cursor:pointer;
-	color:#ffffff;
+	background-color:#74ad5a;
+	color:.myButton {
+	box-shadow:inset 0px 1px 0px 0px #262e23;
+	background:linear-gradient(to bottom, #74ad5a 5%, #598a41 100%);
+	background-color:#74ad5a;
+	border:12px solid #000000;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
 	font-family:Arial;
 	font-size:28px;
 	padding:16px 31px;
