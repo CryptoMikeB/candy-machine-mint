@@ -1,12 +1,14 @@
 body {
-  margin: auto;
+ display: block;
+    margin-left: auto;
+    margin-right: auto
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #000000;
-  color: #788d74;
+  color: #97a997;
 }
 
 code {
