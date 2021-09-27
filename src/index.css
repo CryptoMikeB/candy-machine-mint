@@ -1,7 +1,7 @@
 body {
  display: block;
-    margin-left: 100px;
-    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
   
     
   -webkit-font-smoothing: antialiased;
@@ -11,12 +11,11 @@ body {
 	display:inline-block;
 	cursor:pointer;
 	background-color:#141414;
+	
 	color:#288B08;
 	font-family:Arial;
 	font-size:28px;
-	padding:16px 31px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;
+	
 
 }
 code {
