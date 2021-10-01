@@ -1,22 +1,24 @@
 body {
- display: block;
-    margin-left: auto;
-    margin-right: auto;
-  
-    
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  
-	border:12px solid #141414;
-	display:inline-block;
-	cursor:pointer;
-	background-color:#141414;
-	
-	color:#288B08;
-	font-family:Arial;
-	font-size:28px;
-	
-
+  position: relative; 
+  top: 14%; 
+  left: 0%; 
+  right: 0%; 
+  bottom: 4%; 
+  height: 420px; 
+  width: 320px; 
+  padding: 15px 15px 15px 15px; 
+  margin: 97px auto 38px auto; 
+  display: block; 
+  background: #54E0F1; 
+  font-size: 22px; 
+  color: #000000; 
+  font-family: Menlo, Consolas, Monaco, "Lucida Console", monospace; 
+  border-top: 5px; 
+  border-left: 5px; 
+  border-right: 5px; 
+  border-bottom: 5px; 
+  border-color: #000000; 
+  border-style: solid; 
 }
 code {
  
